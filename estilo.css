@@ -1,0 +1,22 @@
+body{
+    background-color: dodgerblue;
+    font: normal 15pt Arial;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto; /*Para colocar centralizado*/
+    box-shadow: 5px 5x 10px rgba(0, 0, 0.365);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
